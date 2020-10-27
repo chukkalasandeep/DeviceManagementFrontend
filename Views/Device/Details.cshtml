@@ -1,0 +1,49 @@
+﻿@model DeviceManagementWebsite.Models.DeviceDTO
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Device</h4>
+    <hr />
+    <dl class="row">      
+        
+        <dt class = "col-sm-2">
+           IMEI
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Imei)
+        </dd>
+        <dt class = "col-sm-2">
+            SIM Card Number
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SimCardNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Enabled)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Enabled)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Created)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Created)
+        </dd>
+        <dt class = "col-sm-2">
+            Created By
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedBy)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id}) |
+    <a asp-action="Index">Back to List</a>
+</div>

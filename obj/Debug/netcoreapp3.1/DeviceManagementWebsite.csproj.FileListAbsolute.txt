@@ -1,0 +1,252 @@
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.exe
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.deps.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.runtimeconfig.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.runtimeconfig.dev.json
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.pdb
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.pdb
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.AssemblyInfoInputs.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.AssemblyInfo.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csproj.CoreCompileInputs.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.MvcApplicationPartsAssemblyInfo.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorAssemblyInfo.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorAssemblyInfo.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.TagHelpers.input.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.TagHelpers.output.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorCoreGenerate.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\DeviceBackendMappings\Create.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\DeviceBackendMappings\Index.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Create.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Delete.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Edit.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Index.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorTargetAssemblyInfo.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorTargetAssemblyInfo.cs
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.pdb
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csproj.CopyComplete
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\staticwebassets\DeviceManagementWebsite.StaticWebAssets.Manifest.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\staticwebassets\DeviceManagementWebsite.StaticWebAssets.xml
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.dll
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.pdb
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.genruntimeconfig.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csprojAssemblyReference.cache
+E:\Exercise\Core\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Details.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.pdb
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.exe
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.deps.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.runtimeconfig.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.runtimeconfig.dev.json
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.pdb
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.pdb
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csprojAssemblyReference.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csproj.CoreCompileInputs.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorAssemblyInfo.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorAssemblyInfo.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.AssemblyInfoInputs.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.AssemblyInfo.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.TagHelpers.input.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.TagHelpers.output.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorCoreGenerate.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\DeviceBackendMappings\Create.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\DeviceBackendMappings\Index.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Create.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Delete.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Details.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Edit.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Device\Index.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorTargetAssemblyInfo.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.RazorTargetAssemblyInfo.cs
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.Views.pdb
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.csproj.CopyComplete
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\staticwebassets\DeviceManagementWebsite.StaticWebAssets.Manifest.cache
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\staticwebassets\DeviceManagementWebsite.StaticWebAssets.xml
+D:\Excercise Projects\Dot Net\DeviceManagementWebsite\obj\Debug\netcoreapp3.1\DeviceManagementWebsite.genruntimeconfig.cache

@@ -1,0 +1,85 @@
+﻿@model DeviceManagementWebsite.Models.DeviceDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>DeviceDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <hidden asp-for="Id" />
+            @*<div class="form-group">
+                    <label asp-for="Id" class="control-label"></label>
+                    <hidden asp-for="Id" class="form-control" />
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>*@
+            <div class="form-group">
+                <label asp-for="Imei" class="control-label"></label>
+                <input asp-for="Imei" class="form-control" readonly="readonly" />
+                @*<span asp-validation-for="Imei" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label class="control-label">SIM Card Number</label>
+                <input asp-for="SimCardNumber" class="form-control" />
+                <span asp-validation-for="SimCardNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Enabled" /> @Html.DisplayNameFor(model => model.Enabled)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Created" class="control-label"></label>
+                <input asp-for="Created" class="form-control" readonly />
+                <span asp-validation-for="Created" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Created By</label>
+                <input asp-for="CreatedBy" class="form-control" />
+                <span asp-validation-for="CreatedBy" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                @if (ViewBag.RetVal == 1)
+                {
+                    <span class="text-success">Saved successfully</span>
+                }
+                else if (ViewBag.RetVal == -1)
+                {
+                    <span class="text-danger">Error occured!</span>
+                }
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <!-- Bootstrap DatePicker -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" type="text/css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js" type="text/javascript"></script>
+    <!-- Bootstrap DatePicker -->
+    <script type="text/javascript">
+        $(function () {
+            $('#Created').datepicker({
+                changeMonth: true,
+                changeYear: true,
+                format: "dd/mm/yyyy",
+                language: "tr"
+            });
+        });
+    </script>
+}
+

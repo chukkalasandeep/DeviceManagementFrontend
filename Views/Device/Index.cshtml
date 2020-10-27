@@ -1,0 +1,74 @@
+﻿@model IEnumerable<DeviceManagementWebsite.Models.DeviceDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Devices</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="form-group">
+    @if (TempData["RetVal"] != null)
+    {
+        if (Convert.ToInt32(TempData["RetVal"]) == 1)
+        {
+            <span class="text-success">Deleted successfully</span>
+        }
+        else if (Convert.ToInt32(TempData["RetVal"]) == -1)
+        {
+            <span class="text-danger">Error occured!</span>
+        }
+    }
+</div>
+<table class="table">
+    <thead>
+        <tr>           
+            <th>
+                IMEI
+                
+            </th>
+            <th>
+                SIM Card Number
+               
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enabled)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Created) On
+            </th>
+            <th>
+                Created By
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>            
+            <td>
+                @Html.DisplayFor(modelItem => item.Imei)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SimCardNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enabled)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Created)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.Id }, new { onclick = "return confirm('Are you sure you want to delete the device?')" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

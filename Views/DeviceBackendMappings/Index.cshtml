@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DeviceManagementWebsite.Models.DeviceBackendDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Device Backend Mappings</h1>
+
+<p>
+    <a asp-action="Create">Add Mapping</a>
+</p>
+<div class="form-group">
+    @if (TempData["RetVal"] != null)
+    {
+        if (Convert.ToInt32(TempData["RetVal"]) == 1)
+        {
+            <span class="text-success">Deleted successfully</span>
+        }
+        else if (Convert.ToInt32(TempData["RetVal"]) == -1)
+        {
+            <span class="text-danger">Error occured!</span>
+        }
+    }
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Device IMEI
+            </th>
+            <th>
+                Backend Name
+            </th>
+            <th>Action </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Imei)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BackendName)
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { onclick = "return confirm('Are you sure you want to delete the mapping?')" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
